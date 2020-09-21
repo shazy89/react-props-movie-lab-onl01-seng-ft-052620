@@ -40,8 +40,6 @@ body, html, #root {
   transform: rotateY(180deg) scale(1.05);
 }
 
-
-
 .card-front, .card-back {
   position: absolute;
   height: inherit;
@@ -86,3 +84,5 @@ span {
   width: 148px;
   height: 33px;
 }
+
+
